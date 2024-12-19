@@ -1,0 +1,7 @@
+# Bỏ qua tất cả các file .dot
+*.dot
+
+# Các quy tắc khác
+*.pyc
+__pycache__/
+.env
